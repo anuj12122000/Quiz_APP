@@ -10,4 +10,4 @@ That's when quiz component came into action then one by one Iterating through th
 
 And at the end screen User's total score was displayed along with a button to restart the quiz.
 
-It was really fun to make this project.
+It was really fun to make this project.# Quiz_APP
